@@ -1,4 +1,4 @@
-# InsightMax-Revolutionizing-Ray-Gadgets-Data-Analytics-Using-Power-BI
+# InsightMax: Revolutionizing Ray Gadgets Data Analytics Using Power BI
 Ray Gadgets, a leading technology distributor, is aiming to enhance its data analytics capabilities to stay ahead in the ever-evolving electronics industry. As a trusted provider of cutting-edge products, Ray Gadgets serves a wide range of wholesale customers. To achieve this, the organization has decided to transition from traditional Excel reports to a more dynamic and responsive reporting solution using Power BI dashboards and automated reports.
 
 As a Data Analyst Consultant at Ray Gadgets, the initial task is to build a robust data model that reduces redundancy, optimizes report speed and performance, and enables efficient analysis of sales data for various product categories including laptops, digital cameras, gaming consoles, smartphones, headphones, and smart TVs.
